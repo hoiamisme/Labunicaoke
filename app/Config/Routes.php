@@ -17,3 +17,4 @@ $routes->post('register', 'AuthController::registerAction'); // Proses register
 $routes->get('dashboard', 'DashboardController::index', ['filter' => 'auth']); // Halaman dashboard, hanya bisa diakses setelah login
 $routes->get('mailbox', 'MailboxController::index');
 $routes->post('login', 'Dashboard::index'); // Proses login
+$routes->get('daftarnama' , to: 'DaftarNamaController::index');
