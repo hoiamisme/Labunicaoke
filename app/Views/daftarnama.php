@@ -49,7 +49,7 @@
                   <p>Dashboard v1</p>
                 </a>
               </li>
-              <li class="nav-item">
+              <li class="nav-tem">
                 <a href="../../index2.html" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Dashboard v2</p>
