@@ -239,14 +239,7 @@
               </li>
             </ul>
   
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-table"></i>
-              <p>
-                Kelola User
-                <i class="fas fa-angle-left right"></i>
-              </p>
-            </a>
+        
             <ul class="nav nav-treeview">
               <li class="nav-item">
                 <a href="pages/tables/simple.html" class="nav-link">
@@ -316,7 +309,7 @@
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item active">Dashboa</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->
